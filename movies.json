@@ -1,0 +1,59 @@
+[
+ { "title":"Naruto",  
+"image":"https://i.egycdn.com/pic/WmFwZndlY212dk5FbW1tdm1FRWNseHdUbXhtbXdkeg.jpg",
+"url":"http://192.168.0.10/media/naruto.mp4"
+ },
+
+ { "title":"Sound mp3",  
+"image":"https://i.egycdn.com/pic/WmFwZndlY212bXZtcGptVGJtdkVjeG1tbG1ZbWF2Y216.jpg",
+"url":"http://192.168.0.10/media/sound.mp3"
+ }
+,
+
+ { "title":"arriadia",  
+"image":"https://i.egycdn.com/pic/WmFwZndlY212bXZtcGptVGJtdkVjeG1tbG1ZbWF2Y216.jpg",
+"url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/index.m3u8"
+ }
+,
+
+ { "title":"",  
+"image":"https://i.egycdn.com/pic/WmFwZndlY212bXZtcGptVGJtdkVjeG1tbG1ZbWF2Y216.jpg",
+"url":"https://streamer.eagrpservices.com/audio/radiomars.mp3"
+ }
+,
+
+ { "title":"",  
+"image":"https://i.egycdn.com/pic/WmFwZndlY212bXZtcGptVGJtdkVjeG1tbG1ZbWF2Y216.jpg",
+"url":"https://broadcast.ice.infomaniak.ch/aswat-high.mp3"
+ },
+
+ { "title":"",  
+"image":"https://i.egycdn.com/pic/WmFwZndlY212bXZtcGptVGJtdkVjeG1tbG1ZbWF2Y216.jpg",
+"url":"https://streamer.eagrpservices.com/audio/mfmradio.ogg"
+ },
+
+ { "title":"",  
+"image":"https://i.egycdn.com/pic/WmFwZndlY212bXZtcGptVGJtdkVjeG1tbG1ZbWF2Y216.jpg",
+"url":"https://streamer.eagrpservices.com/audio/chadafm.mp3"
+ },
+
+ { "title":"",  
+"image":"https://i.egycdn.com/pic/WmFwZndlY212bXZtcGptVGJtdkVjeG1tbG1ZbWF2Y216.jpg",
+"url":"https://streamer.eagrpservices.com/audio/medradio.mp3"
+ },
+
+ { "title":"",  
+"image":"https://i.egycdn.com/pic/WmFwZndlY212bXZtcGptVGJtdkVjeG1tbG1ZbWF2Y216.jpg",
+"url":"https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3"
+ },
+
+ { "title":"",  
+"image":"https://i.egycdn.com/pic/WmFwZndlY212bXZtcGptVGJtdkVjeG1tbG1ZbWF2Y216.jpg",
+"url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/radio_idaa_watanya-mp4a_130400_qad=1.m3u8"
+ },
+
+ { "title":"",  
+"image":"https://i.egycdn.com/pic/WmFwZndlY212bXZtcGptVGJtdkVjeG1tbG1ZbWF2Y216.jpg",
+"url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/radio_idaa_watanya-avc1_100000=2.m3u8"
+ }
+ ] 
