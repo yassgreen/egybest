@@ -2,34 +2,42 @@
  { "title":"راديو مارس",  
 "image":"https://static.mytuner.mobi/media/radios-150px/wY3ZYaGepy.png",
 "url":"https://streamer.eagrpservices.com/audio/radiomars.mp3"
+,"audio":"yes"
  },
  { "title":"راديو أصوات",  
 "image":"https://static.mytuner.mobi/media/radios-150px/kQHmMyteZb.png",
 "url":"https://broadcast.ice.infomaniak.ch/aswat-high.mp3"
+,"audio":"yes"
  },
  { "title":"MFM Radio",  
 "image":"https://static.mytuner.mobi/media/radios-150px/ES9S56BeXH.png",
 "url":"https://streamer.eagrpservices.com/audio/mfmradio.ogg"
+,"audio":"yes"
  },
  { "title":"ميد راديو",  
 "image":"https://static.mytuner.mobi/media/tvos_radios/YUq4BhxnP7.png",
 "url":"https://streamer.eagrpservices.com/audio/medradio.mp3"
+,"audio":"yes"
  },
  { "title":"هيت راديو",  
 "image":"https://www.hitradio.ma/sites/default/files/small-logo-hitradio.png",
 "url":"https://hitradio-maroc.ice.infomaniak.ch/hitradio-maroc-128.mp3"
+,"audio":"yes"
  },
  { "title":"A الإذاعة الوطنية",  
 "image":"http://snrtlive.ma/sites/all/themes/snrtlive/images/idaawataniya.png",
 "url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/radio_idaa_watanya-mp4a_130400_qad=1.m3u8"
+,"audio":"yes"
  },
  { "title":"B الإذاعة الوطنية",  
 "image":"http://snrtlive.ma/sites/all/themes/snrtlive/images/idaawataniya.png",
 "url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/radio_idaa_watanya/hls_snrt_radio/radio_idaa_watanya-avc1_100000=2.m3u8"
+,"audio":"yes"
  },
  { "title":"قناة الرياضية",  
 "image":"http://snrtlive.ma/sites/all/themes/snrtlive/images/arriyadia-bg.png",
 "url":"https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/arriadia/hls_snrt/arriadia-avc1_400000=2-mp4a_130400_qad=1.m3u8"
+,"audio":"no"
  }
 
  ] 
